@@ -2,4 +2,4 @@
 Tip Calculator app
 
 ### Language used:
-Android
+Android, Kotlin, XML
