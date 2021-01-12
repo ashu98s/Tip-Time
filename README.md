@@ -4,7 +4,7 @@ Tip Calculator app
 
 ### Language and Tools used :
 
-Android, Kotlin
+Android, Kotlin, XML
 
 ### User Interface :
 
