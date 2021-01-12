@@ -2,7 +2,7 @@
 
 Tip Calculator app
 
-### Language and used :
+### Language and Tools used :
 
 Android
 
